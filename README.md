@@ -1,4 +1,7 @@
-![ ](KarineMeireles/desafio-github-markdown/prints-demonstracao-do-projeto/banner.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KarineMeireles/desafio-github-markdown/main/prints-demonstracao-do-projeto/banner.png" alt="Banner do Projeto">
+</div>
+
 
 
 # 🚀 Desafio Git/GitHub - Explorando Markdown ✨
@@ -68,6 +71,7 @@ Este projeto foi criado como parte de um desafio para consolidar os conhecimento
 - ✅ Criar branches e realizar merges.
 - ✅ Abrir **issues** 
 
+
 <BR>
 
 ## 🚧 O que falta fazer
@@ -103,7 +107,8 @@ Neste projeto, exploramos vários recursos do **Markdown**:
 
 
 
-![Demonstração do Projeto](KarineMeireles/desafio-github-markdown/prints-demonstracao-do-projeto/captura-de-tela.png)
+![ ](https://raw.githubusercontent.com/KarineMeireles/desafio-github-markdown/main/prints-demonstracao-do-projeto/captura-de-tela.png)
+
 
 
 <BR>
