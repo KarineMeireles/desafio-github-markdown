@@ -141,8 +141,8 @@ Neste projeto, exploramos vários recursos do **Markdown**:
 
 Caso tenha dúvidas ou sugestões, sinta-se à vontade para contribuir ou entrar em contato!  
 📧 E-mail: [Karinelameireles@hotmail.com](mailto:karinelameireles@hotmail.com)  
-🤝 GitHub: [Seu Perfil](https://github.com/KarineMeireles)<br>
-💼 LinkedIn: [Seu Perfil](https://www.linkedin.com/in/karinelameireles/)
+🤝 GitHub: [KarineMeireles](https://github.com/KarineMeireles)<br>
+💼 LinkedIn: [Karinelameireles](https://www.linkedin.com/in/karinelameireles/)
 
 
 <br>
